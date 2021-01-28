@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TwistedSoul.StaticGraphic">
+    <Position X="48.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAIAAAAICAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.MotionGraphics">
+    <Position X="48.5" Y="4" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>AbstractClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.AnimatedGraphics">
+    <Position X="51" Y="7" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAEAAAhAAABAAAAAAEAAAQAAAAAQAAAAAAgQ=</HashCode>
+      <FileName>AbstractClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.backgrounds">
+    <Position X="41" Y="7" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgABAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Particle" Collapsed="true">
+    <Position X="59.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAgCAAAAAABAAAIAAAAEAQAAAAAABEIAEAAQ=</HashCode>
+      <FileName>AbstractClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Enemies">
+    <Position X="24.25" Y="11.75" Width="7.75" />
+    <TypeIdentifier>
+      <HashCode>CAUETBACQAIBEgAAAIACgAAIAACEBAGAQAAAAFAEAAA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.MeleeEnemy">
+    <Position X="11.25" Y="19.25" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAgAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.RangeEnemy">
+    <Position X="19.25" Y="19.25" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.MageEnemy">
+    <Position X="27.25" Y="19.25" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Boss">
+    <Position X="35.25" Y="19.25" Width="9.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAgAAgAAAAAAAAAAAAAACAAAAAAAAIAAEEA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Game1" Collapsed="true">
+    <Position X="56.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBSCGEQiAAFAkwAACVQAAAAQBAUMQUgBhJHAwcFAgEQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Tile">
+    <Position X="36.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAgAAAAAAACAAAAQgAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.CollisionTiles">
+    <Position X="36.75" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Map" Collapsed="true">
+    <Position X="58" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEABAAAAgQAQAAAAEAEAAIAAAAAAQAgAEAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.RectangleHelper" Collapsed="true">
+    <Position X="58" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Player">
+    <Position X="45.5" Y="11.75" Width="9.5" />
+    <TypeIdentifier>
+      <HashCode>QASAAEQAAIAAGgIALokQBKEAACAAAgAAIAiAQICg0CA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Program" Collapsed="true">
+    <Position X="56.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.Projectiles">
+    <Position X="71.75" Y="11.75" Width="7.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAgACAAAAAgAAAAAAAAIgAAQAAIAkAAA=</HashCode>
+      <FileName>Projectiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.ArrowProj">
+    <Position X="80" Y="16" Width="7.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Projectiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.BatProj">
+    <Position X="88.5" Y="16" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Projectiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.BoltOfLight">
+    <Position X="55.75" Y="16" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAACAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Projectiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.KnifeProj">
+    <Position X="63.75" Y="16" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Projectiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistedSoul.SkeletalGrasp">
+    <Position X="71.75" Y="16" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAQA=</HashCode>
+      <FileName>Projectiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TwistedSoul.EnemyAction" Collapsed="true">
+    <Position X="58" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAIAAAAAAIAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TwistedSoul.BossAction" Collapsed="true">
+    <Position X="56.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAwAAAAAABAIAAAAAAAAAAAAgAAQAAAAAAAA=</HashCode>
+      <FileName>Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TwistedSoul.PlayerStates" Collapsed="true">
+    <Position X="56.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAgIAAAAAAIAAAAAAAAQACAAAIAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TwistedSoul.Spell" Collapsed="true">
+    <Position X="58" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAACAAAAAIABAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameState" Collapsed="true">
+    <Position X="59.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
